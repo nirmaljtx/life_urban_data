@@ -22,3 +22,6 @@ A major pain-point for customers is non-arrival of professionals for their servi
 - days_no_block : Days not blocked by the platform and available to work
 - days_block : Days blocked by the platform
 - number_times_blocked : Number of time blocked in the last n days
+
+
+The data_assignment.gz is the data, figure out how to extract the data and solve the problems (hint: use pd.read_csv)
